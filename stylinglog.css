@@ -1,0 +1,49 @@
+body {
+	font-size: 120%;
+    background-color: #B0C4DE;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header {
+	width: 40%;
+	margin: 50px auto 0px;
+	color: white;
+	background-color: #a94442;
+	text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+form, .content {
+	width: 40%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid;
+	background: cornsilk;
+	border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+	margin: 10px 0px 10px 0px;
+}
+.input-group label {
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+.input-group input {
+    border: 1px solid black;
+    width: 95%;
+    font-size: 16px;
+    height: 35px;
+    padding: 5px;
+}
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #a94442;
+	border: none;
+	border-radius: 5px;
+}
+.thetable{
+	width: 70%;
+	float: right;
+}

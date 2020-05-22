@@ -1,0 +1,54 @@
+h1{
+    text-align: left;
+    font-size: 26pt;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+h1.CPerson{
+    text-align: center;
+}
+.thetable {
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    text-align: center;
+}
+.phptable{
+    width: 74%;
+    float: right;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
+tr{
+    background-color: burlywood;
+}
+body{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+.whats {
+    font-size: 12pt;
+}
+p.sign-up {
+    float: right;
+}
+.mainintro {
+    padding-top: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: black;
+    width: 25%;
+}
+h2.mainintro {
+    background-color: lavender;
+}
+.mainintro {
+    background-color: white;
+}
+.phpstuff{
+    font-size: 100px;
+}
+.genretable{
+    float: right;
+}
